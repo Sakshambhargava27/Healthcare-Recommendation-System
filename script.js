@@ -1,5 +1,3 @@
-// const form = document.getElementById("healthForm");
-// const userDetails = JSON.parse(localStorage.getItem("userDetails"));
 const form = document.getElementById("healthForm");
 
 const userDetails =
@@ -575,11 +573,6 @@ if (userDetails) {
 }
 
 
-
-// ============================
-// DISPLAY USER DETAILS
-// ============================
-
 function displayUserDetails(userDetails) {
 
     document.getElementById("userName")
@@ -594,9 +587,7 @@ function displayUserDetails(userDetails) {
 
 
 
-// ============================
-// FIND BEST MATCH
-// ============================
+
 
 function findDisease(userInput) {
 
