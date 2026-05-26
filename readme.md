@@ -26,6 +26,6 @@ Saksham Bhargava
 4. Recommended treatment and related educational videos are displayed dynamically.
 
 ## Future Improvements
-AI-based disease prediction
-Voice input support
-Dark mode interface
+- AI-based disease prediction
+- Voice input support
+- Dark mode interface
